@@ -10701,8 +10701,8 @@ header {
 }
 
 .instruction__picture {
-  height: 50vh;
-  width: auto;
+  height: auto;
+  width: 100%;
 }
 
 .instruction__para {
