@@ -10752,9 +10752,9 @@ header {
   width: 54px;
   border: 2px solid #ed9282;
   border-radius: 50%;
-  display: inline-block;
-  text-align: center;
-  padding-top: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .download {
